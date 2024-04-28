@@ -1,1 +1,8 @@
 @import "./bootstrap_override.scss";
+@import "./components/SidebarL/SidebarL.scss";
+@import "./components/Player/Player.scss";
+@import "./components/MainNoLogin/MainNoLogin.scss";
+
+body {
+  background-color: black;
+}
